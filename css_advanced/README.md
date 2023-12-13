@@ -1,1 +1,1 @@
-![Alt text](image.png)
+![Alt text](/css_advanced/images/image.png)
