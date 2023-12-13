@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+    background-image: url("images/background.png");
+    background-repeat: no-repeat;
+    max-height: 100vh;
+    background-position: start;
+    background-size: cover;
+}
+
+.menu {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+}
+
+.menu a {
+    color: white;
+    margin: 0 30px;
+}
+
+.div1 {
+    margin: 60px 0;
+    text-align: center;
+}
+
+.big-title1 {
+    text-align: center;
+    font-size: 120px;
+    color: white;
+}
+
+.three-words {
+    color: white;
+    word-spacing: 60px;
+    text-align: center;
+}
+
+button {
+    background-color: #c271ff;
+    color: white;
+    padding: 10px 20px;
+    margin: 20px;
+    border: 0;
+    border-radius: 20px;
+    
+}
+
+.big-title2 {
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 70px;
+    font-size: 32px;
+    color: white;
+}
+
+.big-title2 span {
+    color: #c271ff;
+}
+
+.first-pro {
+    position: absolute;
+    width: 150px;
+    height: 237px;
+    top: 758px;
+    left: 367px;
+}
+
+.second-pro {
+    position: absolute;
+    width: 150px;
+    height: 237px;
+    top: 758px;
+    left: 656px;   
+}
+
+.third-pro {
+    position: absolute;
+    width: 150px;
+    height: 237px;
+    top: 758px;
+    left: 937px; 
+}
+
+.fourth-pro {
+    position: absolute;
+    width: 150px;
+    height: 237px;
+    top: 758px;
+    left: 1226px; 
+}
